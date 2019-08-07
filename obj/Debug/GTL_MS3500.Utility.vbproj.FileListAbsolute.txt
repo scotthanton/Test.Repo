@@ -1,0 +1,16 @@
+C:\Development\GTL_MS3500.Utility\bin\Debug\GTL_MS3500.Utility.dll.config
+C:\Development\GTL_MS3500.Utility\bin\Debug\GTL_MS3500.Utility.dll
+C:\Development\GTL_MS3500.Utility\bin\Debug\GTL_MS3500.Utility.pdb
+C:\Development\GTL_MS3500.Utility\bin\Debug\GTL_MS3500.Utility.xml
+C:\Development\GTL_MS3500.Utility\obj\Debug\GTL_MS3500.Utility.frmAskPWD.resources
+C:\Development\GTL_MS3500.Utility\obj\Debug\GTL_MS3500.Utility.ChangePWDDlg.resources
+C:\Development\GTL_MS3500.Utility\obj\Debug\GTL_MS3500.Utility.FilterDataGrid.resources
+C:\Development\GTL_MS3500.Utility\obj\Debug\GTL_MS3500.Utility.FilterControl.resources
+C:\Development\GTL_MS3500.Utility\obj\Debug\GTL_MS3500.Utility.ToolBar.resources
+C:\Development\GTL_MS3500.Utility\obj\Debug\GTL_MS3500.Utility.Resources.resources
+C:\Development\GTL_MS3500.Utility\obj\Debug\GTL_MS3500.Utility.vbproj.GenerateResource.cache
+C:\Development\GTL_MS3500.Utility\obj\Debug\GTL_MS3500.Utility.vbproj.CoreCompileInputs.cache
+C:\Development\GTL_MS3500.Utility\obj\Debug\GTL_MS3500.Utility.dll
+C:\Development\GTL_MS3500.Utility\obj\Debug\GTL_MS3500.Utility.xml
+C:\Development\GTL_MS3500.Utility\obj\Debug\GTL_MS3500.Utility.pdb
+C:\Development\GTL_MS3500.Utility\obj\Debug\GTL_MS3500.Utility.vbprojAssemblyReference.cache
